@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm *John Mitchell*
 ##  About Me
 _Bello!! My name is john and one of my favorite movies is despicable me! I also like cars and to workout._
 ## ⚒️ Skills
