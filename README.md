@@ -13,4 +13,4 @@ _Bello!! My name is john and one of my favorite movies is despicable me! I also 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/UltraBear99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnmitchell99)
 
-_"Your sample quote here!"_
+_"Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure - coach carter"_
